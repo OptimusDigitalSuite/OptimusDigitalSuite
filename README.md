@@ -16,7 +16,7 @@
 | **[TrueMile](https://truemileapp.com)** · [code](https://github.com/OptimusDigitalSuite/truemile) | An offline-first PWA that tells a truck owner-operator whether a load is worth taking | Next.js · TypeScript · Supabase RLS · Service Worker |
 | **[Summarist](https://summarist-jet.vercel.app)** · [code](https://github.com/OptimusDigitalSuite/summarist) | A book-summary subscription app built from a written spec (FES internship) | Next.js · Redux Toolkit · Firebase · Stripe |
 | **[Skinstric](https://skinstric-flame.vercel.app)** · [code](https://github.com/OptimusDigitalSuite/skinstric) | An A.I. skin-analysis flow: all 14 frames of a Figma design, including camera capture (FES virtual internship) | Next.js · Tailwind v4 · Camera API |
-| **[NFT Marketplace](https://fes-internship-six.vercel.app)** · [code](https://github.com/OptimusDigitalSuite/bill-internship) | A marketplace front end, one branch and one pull request per feature (FES virtual internship) | React · React Router · axios |
+| **[NFT Marketplace](https://fes-internship-six.vercel.app)** · [code](https://github.com/OptimusDigitalSuite/nft-marketplace) | A marketplace front end, one branch and one pull request per feature (FES virtual internship) | React · React Router · axios |
 
 Some of my product work lives in private repos. I can walk you through it on a screen share.
 
