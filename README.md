@@ -29,4 +29,4 @@ Some of my product work lives in private repos. I can walk you through it on a s
 **AI and automation:** Claude API · MCP servers · Claude Code · n8n · Playwright
 **Quality:** automated tests (Vitest, Playwright) · GitHub Actions CI · Git pull-request workflow · Vercel
 
-🎓 **Frontend Simplified**, Software Engineering Program: all 16 modules complete (2026).
+🎓 **Simplified.org**, Software Engineering Program: all 16 modules complete (2026).
