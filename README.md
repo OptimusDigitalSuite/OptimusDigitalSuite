@@ -1,6 +1,6 @@
 ### Hi, I'm Bill Campbell 👋
 
-**Full-stack developer who builds AI apps and business automation.** I work in React, Next.js and TypeScript, with Supabase/Postgres and Node on the backend. I'm based in the Twin Cities (Minneapolis/St Paul), open to remote work, and looking for a junior full-stack or frontend role.
+**Software developer who ships tested React and Next.js apps.** I spent 8 years automating sales for real estate businesses, then retrained as a developer. I work in React, Next.js and TypeScript, with Supabase/Postgres and Node on the backend. I'm based in the Twin Cities (Minneapolis/St Paul), open to remote work, and looking for a junior software developer role (frontend or full-stack).
 
 **How I build:** I'm early in my coding career and I work with Claude Code (and Codex). I decide what to build and write the plan, the agent writes the code, and automated tests and CI have to pass before I accept or ship anything. I read the failures, fix what's wrong and ship it. The tests are public on Sports Pool OS (473 passing).
 
